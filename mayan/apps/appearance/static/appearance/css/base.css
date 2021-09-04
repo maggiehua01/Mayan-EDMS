@@ -393,8 +393,8 @@ a i {
     color: #f0ad4e;
 }
 
-.btn-danger.btn-outline {
-    color: #d9534f;
+.btn-danger {
+    background-color: #730e0b;
 }
 
 .btn-default.btn-outline:hover,
